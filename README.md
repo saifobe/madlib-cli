@@ -4,7 +4,7 @@
 ## Project: Madlib
 ## Author: Saif Obeidat
 ### Links 
-https://github.com/saifobe/madlib-cli/pull/1
+[PR Link](https://github.com/saifobe/madlib-cli/pull/1)
 ## Setup
 - .venv
 
