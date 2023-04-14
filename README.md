@@ -1,8 +1,46 @@
 # madlib-cli
 
 # LAB - Class 03
+
 ## Project: Madlib
-## Author: Saif Obeidat/co
+
+### Author: Saif Obeidat
+
 ### Links and Resources
-## Setup
-- .venv
+
+[Pull Request Link]()
+
+
+### Setup
+
+- Create venv 
+```
+python3 -m venv .venv
+``` 
+- Activate venv file 
+```
+source .venv/bin/activate
+```
+- install requirements
+```
+pip install -r requirements.txt
+```
+
+
+
+### How to initialize/run your application (where applicable)
+
+-
+ ```
+python madlib_cli/madlib.py
+```
+
+### Tests
+
+- How do you run tests? 
+
+```
+pip install pytest
+```
+- import pytest 
+-in terminal pytest
