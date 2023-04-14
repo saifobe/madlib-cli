@@ -43,4 +43,10 @@ python madlib_cli/madlib.py
 pip install pytest
 ```
 - import pytest 
--in terminal pytest
+
+-in terminal
+
+```
+ pytest
+
+ ```
