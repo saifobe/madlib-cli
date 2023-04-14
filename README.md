@@ -6,7 +6,7 @@
 
 ### Author: Saif Obeidat
 
-### Links and Resources
+### Links
 
 [Pull Request Link]()
 
