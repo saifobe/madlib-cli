@@ -8,7 +8,7 @@
 
 ### Links
 
-[Pull Request Link](https://github.com/saifobe/madlib-cli/pull/2)
+[Pull Request Link](https://github.com/saifobe/madlib-cli/pull/4)
 
 
 ### Setup
